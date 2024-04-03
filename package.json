@@ -1,0 +1,19 @@
+{
+  "name": "progetto_taskmanagement",
+  "version": "1.0.0",
+  "description": "Progetto per il Technical Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Badar97/Progetto_TaskManagement.git"
+  },
+  "author": "badar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Badar97/Progetto_TaskManagement/issues"
+  },
+  "homepage": "https://github.com/Badar97/Progetto_TaskManagement#readme"
+}
